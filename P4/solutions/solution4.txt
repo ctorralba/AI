@@ -1,0 +1,18 @@
+1.82336e+06
+1174
+43
+A 0 l,A 0 l,A 0 l,T 2 d,T 3 d,T 3 d,T 4 d,T 4 d,T 5 d,T 5 d,T 1 r,T 1 r,T 1 r,T 1 r,B 0 c,B 0 d,T 2 u,T 6 r,B 0 d,T 0 l,T 0 l,T 2 u,T 3 u,T 3 u,T 3 u,T 6 r,B 0 n,B 0 r,B 0 r,B 0 r,B 0 r,T 6 l,T 3 d,T 3 d,T 3 d,T 2 d,T 0 r,T 1 l,T 6 l,T 2 d,T 1 l,B 0 n,B 0 u
+6 5
+5 4
+20 1
+1 7 0
+0 4 R
+1 0 R
+3 1 L
+2 2 D
+3 3 D
+4 3 D
+5 3 D
+0 3 R
+4 1 U
+4 0
